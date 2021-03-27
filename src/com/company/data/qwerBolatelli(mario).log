@@ -1,0 +1,13 @@
+2021-03-22 20:10:17,522 INFO  [AccountService] User entered in account.
+2021-03-22 20:10:17,522 INFO  [RegularUserView] User opened main menu.
+2021-03-22 20:10:20,601 INFO  [RegularUserView] User opened messages menu.
+2021-03-22 20:10:28,448 INFO  [MessagesService] User chose message.
+2021-03-22 20:10:35,264 INFO  [RegularUserView] User opened messages menu.
+2021-03-22 20:10:35,268 INFO  [RegularUserView] User opened main menu.
+2021-03-22 20:10:39,887 INFO  [RegularUserView] User opened profile menu.
+2021-03-22 20:10:44,232 INFO  [AccountService] User entered the first name change menu.
+2021-03-22 20:10:52,144 INFO  [AccountService] User send a first name changing request to cinema administrator.
+2021-03-22 20:10:52,338 INFO  [MessagesService] User sent message to Cinema Admin (admin).
+2021-03-22 20:10:52,338 INFO  [RegularUserView] User opened profile menu.
+2021-03-22 20:10:57,289 INFO  [RegularUserView] User opened main menu.
+2021-03-22 20:10:58,328 INFO  [RegularUserView] User exited the application.

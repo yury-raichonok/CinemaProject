@@ -1,0 +1,53 @@
+2021-03-22 19:51:50,417 INFO  [AccountService] User created account.
+2021-03-22 19:51:50,419 INFO  [RegularUserView] User opened main menu.
+2021-03-22 19:53:03,443 INFO  [RegularUserView] User opened profile menu.
+2021-03-22 19:53:45,834 INFO  [AccountService] User entered the first name change menu.
+2021-03-22 19:54:02,285 INFO  [ValidationService] Edition failed. User entered wrong password 3 times.
+2021-03-22 19:54:02,285 INFO  [RegularUserView] User opened profile menu.
+2021-03-22 19:54:27,745 INFO  [AccountService] User entered the account change menu.
+2021-03-22 19:54:50,248 INFO  [ValidationService] Edition failed. User entered wrong password 3 times.
+2021-03-22 19:54:50,248 INFO  [RegularUserView] User opened profile menu.
+2021-03-22 19:54:53,557 INFO  [RegularUserView] User opened main menu.
+2021-03-22 19:54:58,450 INFO  [RegularUserView] User opened films menu.
+2021-03-22 19:55:09,857 INFO  [RegularUserView] User selected coming soon films.
+2021-03-22 19:55:09,857 INFO  [RegularUserView] User entered the film choice menu.
+2021-03-22 19:55:09,958 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 19:55:26,306 INFO  [FilmService] User selected film "Venom: Let There Be Carnage".
+2021-03-22 19:55:26,306 INFO  [RegularUserView] Selected film "Venom: Let There Be Carnage".
+2021-03-22 19:55:33,761 INFO  [RegularUserView] User entered the film choice menu.
+2021-03-22 19:55:33,772 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 19:55:36,266 INFO  [FilmService] User canceled changes.
+2021-03-22 19:55:36,269 INFO  [RegularUserView] User opened films menu.
+2021-03-22 19:56:05,938 INFO  [RegularUserView] User selected now showing films.
+2021-03-22 19:56:05,938 INFO  [RegularUserView] User entered the film choice menu.
+2021-03-22 19:56:05,982 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 19:56:31,530 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 19:56:31,530 INFO  [RegularUserView] Selected film "Star Wars".
+2021-03-22 19:56:35,873 INFO  [RegularUserView] User entered the film choice menu.
+2021-03-22 19:56:35,900 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 19:56:43,752 INFO  [FilmService] User selected film "Angry Birds".
+2021-03-22 19:56:43,753 INFO  [RegularUserView] Selected film "Angry Birds".
+2021-03-22 19:56:45,186 INFO  [TicketsService] User entered the seat selection menu.
+2021-03-22 19:56:59,801 INFO  [TicketsService] User selected seat №10.
+2021-03-22 19:56:59,801 INFO  [TicketsService] User entered the ticket purchasing menu.
+2021-03-22 19:57:02,531 INFO  [AccountService] User entered the put money menu.
+2021-03-22 19:57:04,830 INFO  [AccountService] User put money on the balance.
+2021-03-22 19:57:10,416 INFO  [TicketsService] User bought a ticket for "Angry Birds".
+2021-03-22 19:57:10,596 INFO  [RegularUserView] User entered the film choice menu.
+2021-03-22 19:57:10,619 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 19:57:53,946 INFO  [FilmService] User canceled changes.
+2021-03-22 19:57:53,947 INFO  [RegularUserView] User opened films menu.
+2021-03-22 19:57:56,217 INFO  [RegularUserView] User opened main menu.
+2021-03-22 19:57:58,513 INFO  [RegularUserView] User opened tickets menu.
+2021-03-22 19:58:18,961 INFO  [TicketsService] User selected ticket.
+2021-03-22 19:58:18,962 INFO  [TicketsService] User entered ticket actions menu.
+2021-03-22 19:58:22,418 INFO  [TicketsService] User entered ticket returning menu.
+2021-03-22 19:58:39,616 INFO  [TicketsService] User sent ticket returning request to cinema manager.
+2021-03-22 19:58:39,700 INFO  [MessagesService] User sent message to Cinema Manager (manager).
+2021-03-22 19:59:05,257 INFO  [TicketsService] User selected ticket.
+2021-03-22 19:59:05,257 INFO  [TicketsService] User entered ticket actions menu.
+2021-03-22 19:59:16,969 INFO  [RegularUserView] User opened tickets menu.
+2021-03-22 19:59:18,232 INFO  [RegularUserView] User opened main menu.
+2021-03-22 19:59:20,073 INFO  [RegularUserView] User opened messages menu.
+2021-03-22 19:59:20,082 INFO  [RegularUserView] User opened main menu.
+2021-03-22 19:59:25,712 INFO  [RegularUserView] User exited the application.

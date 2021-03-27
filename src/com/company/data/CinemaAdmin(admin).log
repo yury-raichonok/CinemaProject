@@ -1,0 +1,81 @@
+2021-03-22 18:26:00,163 INFO  [AccountService] User entered in account.
+2021-03-22 18:26:00,164 INFO  [AdminView] User opened main menu.
+2021-03-22 18:26:02,362 INFO  [AdminView] User opened films menu.
+2021-03-22 18:26:02,442 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:26:07,124 INFO  [FilmService] User selected film "Tenet".
+2021-03-22 18:26:09,434 INFO  [FilmService] User entered the film (session) removing menu.
+2021-03-22 18:26:11,938 INFO  [FilmService] User removed film "Tenet" from cinema.
+2021-03-22 18:26:12,200 INFO  [AdminView] User opened films menu.
+2021-03-22 18:26:12,225 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:26:14,986 INFO  [FilmService] User selected film "Angry Birds 4".
+2021-03-22 18:26:16,330 INFO  [FilmService] User entered the film (session) removing menu.
+2021-03-22 18:26:17,707 INFO  [FilmService] User removed film "Angry Birds 4" from cinema.
+2021-03-22 18:26:18,011 INFO  [AdminView] User opened films menu.
+2021-03-22 18:26:18,035 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:26:20,450 INFO  [FilmService] User selected film "qwer".
+2021-03-22 18:26:23,594 INFO  [FilmService] User entered the film (session) removing menu.
+2021-03-22 18:26:24,938 INFO  [FilmService] User removed film "qwer" from cinema.
+2021-03-22 18:26:25,034 INFO  [AdminView] User opened films menu.
+2021-03-22 18:26:25,046 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:26:32,194 INFO  [FilmService] User canceled changes.
+2021-03-22 18:26:32,194 INFO  [AdminView] User opened main menu.
+2021-03-22 18:26:34,019 INFO  [AdminView] User exited the application.
+2021-03-22 18:33:45,814 INFO  [AccountService] User entered in account.
+2021-03-22 18:33:45,816 INFO  [AdminView] User opened main menu.
+2021-03-22 18:33:48,227 INFO  [AdminView] User opened films menu.
+2021-03-22 18:33:48,305 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:34:11,162 INFO  [FilmService] User selected film "Angry Birds 4".
+2021-03-22 18:34:16,723 INFO  [FilmService] User entered the film (session) removing menu.
+2021-03-22 18:34:18,202 INFO  [FilmService] User removed film "Angry Birds 4" from cinema.
+2021-03-22 18:34:18,381 INFO  [AdminView] User opened films menu.
+2021-03-22 18:34:18,405 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:34:30,058 INFO  [FilmService] User canceled changes.
+2021-03-22 18:34:30,060 INFO  [AdminView] User opened main menu.
+2021-03-22 18:34:32,059 INFO  [AdminView] User exited the application.
+2021-03-22 18:46:53,949 INFO  [AccountService] User entered in account.
+2021-03-22 18:46:53,949 INFO  [AdminView] User opened main menu.
+2021-03-22 18:46:55,457 INFO  [AdminView] User opened films menu.
+2021-03-22 18:46:55,486 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:46:58,409 INFO  [FilmService] User selected film "qqer".
+2021-03-22 18:47:02,313 INFO  [FilmService] User entered the film (session) removing menu.
+2021-03-22 18:47:05,921 INFO  [FilmService] User removed film "qqer" from cinema.
+2021-03-22 18:47:06,115 INFO  [AdminView] User opened films menu.
+2021-03-22 18:47:06,131 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:47:09,737 INFO  [FilmService] User canceled changes.
+2021-03-22 18:47:09,737 INFO  [AdminView] User opened main menu.
+2021-03-22 18:47:12,770 INFO  [AdminView] User exited the application.
+2021-03-22 20:08:04,362 INFO  [AccountService] User entered in account.
+2021-03-22 20:08:04,362 INFO  [AdminView] User opened main menu.
+2021-03-22 20:08:10,633 INFO  [AdminView] User opened films menu.
+2021-03-22 20:08:10,662 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 20:08:15,000 INFO  [FilmService] User canceled changes.
+2021-03-22 20:08:15,000 INFO  [AdminView] User opened main menu.
+2021-03-22 20:08:17,208 INFO  [AdminView] User opened users menu.
+2021-03-22 20:08:20,624 INFO  [AdminView] User opened main menu.
+2021-03-22 20:08:30,360 INFO  [AdminView] User opened users menu.
+2021-03-22 20:08:32,145 INFO  [AccountService] User selected user "qwerty".
+2021-03-22 20:08:36,928 INFO  [AccountService] User entered the account removing menu.
+2021-03-22 20:08:44,633 INFO  [AccountService] User deleted account of "qwerty".
+2021-03-22 20:08:44,761 INFO  [AdminView] User opened users menu.
+2021-03-22 20:08:57,448 INFO  [AccountService] User selected user "mario".
+2021-03-22 20:09:01,522 INFO  [AccountService] User entered the first name change menu.
+2021-03-22 20:09:21,953 INFO  [AccountService] User changed first name of "mario".
+2021-03-22 20:09:22,134 INFO  [MessagesService] User sent message to Mario Bolatelli (mario).
+2021-03-22 20:09:24,306 INFO  [AdminView] User opened users menu.
+2021-03-22 20:09:25,656 INFO  [AdminView] User opened main menu.
+2021-03-22 20:10:10,256 INFO  [AdminView] User exited the application.
+2021-03-22 20:11:04,680 INFO  [AccountService] User entered in account.
+2021-03-22 20:11:04,680 INFO  [AdminView] User opened main menu.
+2021-03-22 20:11:19,400 INFO  [AdminView] User opened films menu.
+2021-03-22 20:11:19,444 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 20:11:38,201 INFO  [FilmService] User canceled changes.
+2021-03-22 20:11:38,201 INFO  [AdminView] User opened main menu.
+2021-03-22 20:11:52,411 INFO  [AdminView] User opened messages menu.
+2021-03-22 20:11:57,360 INFO  [MessagesService] User chose message.
+2021-03-22 20:12:05,776 INFO  [MessagesService] User sent message to qwer Bolatelli (mario).
+2021-03-22 20:12:05,943 INFO  [AdminView] User approved first name changing request.
+2021-03-22 20:12:05,943 INFO  [AdminView] User opened messages menu.
+2021-03-22 20:12:05,948 INFO  [AdminView] User opened main menu.
+2021-03-22 20:12:13,368 INFO  [AdminView] User opened users menu.
+2021-03-22 20:12:17,808 INFO  [AdminView] User opened main menu.
+2021-03-22 20:12:40,984 INFO  [AdminView] User exited the application.

@@ -1,0 +1,147 @@
+2021-03-22 18:12:35,834 INFO  [AccountService] User entered in account.
+2021-03-22 18:12:35,834 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:12:38,995 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:12:39,011 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:12:40,691 INFO  [FilmService] User canceled changes.
+2021-03-22 18:12:40,692 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:12:44,988 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 18:13:49,827 INFO  [FilmService] User added new film "Star Wars".
+2021-03-22 18:13:49,828 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:14:11,195 INFO  [FilmService] User added new film "Star Wars" to rent.
+2021-03-22 18:14:17,387 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:14:19,788 INFO  [ManagerView] User exited the application.
+2021-03-22 18:15:32,706 INFO  [AccountService] User entered in account.
+2021-03-22 18:15:32,707 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:15:37,017 INFO  [ManagerView] User opened films menu.
+2021-03-22 18:15:37,148 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:15:49,404 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 18:15:53,130 INFO  [ManagerView] User opened films menu.
+2021-03-22 18:15:53,206 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:16:06,524 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 18:16:08,706 INFO  [ManagerView] User opened films menu.
+2021-03-22 18:16:08,775 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:16:14,980 INFO  [FilmService] User canceled changes.
+2021-03-22 18:16:14,984 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:16:16,412 INFO  [ManagerView] User exited the application.
+2021-03-22 18:19:56,367 INFO  [AccountService] User entered in account.
+2021-03-22 18:19:56,367 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:19:59,771 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:19:59,794 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:20:02,772 INFO  [FilmService] User canceled changes.
+2021-03-22 18:20:02,772 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:20:07,259 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 18:20:32,051 INFO  [FilmService] User added new film "qwer".
+2021-03-22 18:20:32,052 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:20:52,578 INFO  [FilmService] User added new film "qwer" to rent.
+2021-03-22 18:20:58,211 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:21:52,610 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:21:52,616 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:21:55,946 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 18:22:01,818 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:22:13,450 INFO  [FilmService] User added new film "Star Wars" to rent.
+2021-03-22 18:22:17,234 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:22:17,240 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:22:19,202 INFO  [FilmService] User canceled changes.
+2021-03-22 18:22:19,202 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:25:25,110 INFO  [AccountService] User entered in account.
+2021-03-22 18:25:25,111 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:25:27,203 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:25:27,259 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:25:51,410 INFO  [FilmService] User canceled changes.
+2021-03-22 18:25:51,412 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:25:54,274 INFO  [ManagerView] User exited the application.
+2021-03-22 18:26:39,955 INFO  [AccountService] User entered in account.
+2021-03-22 18:26:39,955 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:26:43,772 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 18:28:00,635 INFO  [FilmService] User added new film "Star Wars" to poster.
+2021-03-22 18:28:00,635 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:28:04,426 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:28:04,445 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:28:06,602 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 18:28:07,922 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:28:24,002 INFO  [FilmService] User added new film "Star Wars" to rent.
+2021-03-22 18:28:28,202 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:28:28,209 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:28:29,666 INFO  [FilmService] User canceled changes.
+2021-03-22 18:28:29,666 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:28:33,099 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 18:29:32,570 INFO  [FilmService] User added new film "Angry Birds 4".
+2021-03-22 18:29:32,570 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:29:44,746 INFO  [FilmService] User added new film "Angry Birds 4" to rent.
+2021-03-22 18:29:49,362 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:29:56,283 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:29:56,292 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:29:59,771 INFO  [FilmService] User canceled changes.
+2021-03-22 18:29:59,771 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:34:39,235 INFO  [AccountService] User entered in account.
+2021-03-22 18:34:39,235 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:34:58,491 INFO  [AccountService] User entered in account.
+2021-03-22 18:34:58,493 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:35:19,668 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 18:35:46,090 INFO  [FilmService] User added new film "Angry Birds".
+2021-03-22 18:35:46,090 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:35:57,554 INFO  [FilmService] User added new film "Angry Birds" to rent.
+2021-03-22 18:36:01,818 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:36:04,962 INFO  [ManagerView] User exited the application.
+2021-03-22 18:36:44,915 INFO  [AccountService] User entered in account.
+2021-03-22 18:36:44,915 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:36:46,306 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:36:46,312 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:36:47,793 INFO  [FilmService] User selected film "Angry Birds".
+2021-03-22 18:36:49,002 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:37:07,842 INFO  [FilmService] User added new film "Angry Birds" to rent.
+2021-03-22 18:37:11,354 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:37:11,359 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:37:13,010 INFO  [FilmService] User canceled changes.
+2021-03-22 18:37:13,010 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:37:27,122 INFO  [ManagerView] User exited the application.
+2021-03-22 18:46:02,063 INFO  [AccountService] User entered in account.
+2021-03-22 18:46:02,065 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:46:06,148 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 18:46:22,075 INFO  [FilmService] User added new film "qqer".
+2021-03-22 18:46:22,076 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 18:46:33,401 INFO  [FilmService] User added new film "qqer" to rent.
+2021-03-22 18:46:36,258 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:46:38,841 INFO  [ManagerView] User opened rent menu.
+2021-03-22 18:46:38,850 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:46:39,885 INFO  [FilmService] User canceled changes.
+2021-03-22 18:46:39,887 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:46:41,810 INFO  [ManagerView] User opened films menu.
+2021-03-22 18:46:41,833 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 18:46:45,481 INFO  [FilmService] User canceled changes.
+2021-03-22 18:46:45,482 INFO  [ManagerView] User opened main menu.
+2021-03-22 18:46:46,793 INFO  [ManagerView] User exited the application.
+2021-03-22 19:17:29,992 INFO  [AccountService] User entered in account.
+2021-03-22 19:17:29,994 INFO  [ManagerView] User opened main menu.
+2021-03-22 19:20:05,652 INFO  [ManagerView] User exited the application.
+2021-03-22 19:59:34,908 INFO  [AccountService] User entered in account.
+2021-03-22 19:59:34,909 INFO  [ManagerView] User opened main menu.
+2021-03-22 20:00:04,480 INFO  [ManagerView] User opened messages menu.
+2021-03-22 20:00:16,680 INFO  [MessagesService] User chose message.
+2021-03-22 20:00:44,353 INFO  [ManagerView] User opened messages menu.
+2021-03-22 20:00:45,456 INFO  [ManagerView] User opened main menu.
+2021-03-22 20:00:48,873 INFO  [ManagerView] User opened messages menu.
+2021-03-22 20:00:49,673 INFO  [MessagesService] User chose message.
+2021-03-22 20:00:51,588 INFO  [MessagesService] User sent message to qwer qwer (qwerty).
+2021-03-22 20:00:51,840 INFO  [ManagerView] User approve ticket returning request.
+2021-03-22 20:00:51,840 INFO  [ManagerView] User opened messages menu.
+2021-03-22 20:00:51,845 INFO  [ManagerView] User opened main menu.
+2021-03-22 20:01:23,482 INFO  [FilmService] User entered the film creation menu.
+2021-03-22 20:03:26,250 INFO  [FilmService] User added new film "Batman".
+2021-03-22 20:03:26,250 INFO  [FilmService] User entered the menu for adding a film to rent.
+2021-03-22 20:04:08,284 INFO  [FilmService] User added new film "Batman" to rent.
+2021-03-22 20:04:20,832 INFO  [ManagerView] User opened main menu.
+2021-03-22 20:04:25,832 INFO  [ManagerView] User opened films menu.
+2021-03-22 20:04:25,859 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 20:04:51,394 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 20:05:39,609 INFO  [FilmService] User entered the film session edition menu.
+2021-03-22 20:05:47,128 INFO  [FilmService] User entered the session ticket cost edition menu.
+2021-03-22 20:05:56,456 INFO  [FilmService] User changed session ticket cost from "12 BRL" to "20 BRL".
+2021-03-22 20:06:22,737 INFO  [ManagerView] User opened films menu.
+2021-03-22 20:06:22,790 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 20:06:30,720 INFO  [FilmService] User selected film "Star Wars".
+2021-03-22 20:06:34,328 INFO  [ManagerView] User opened films menu.
+2021-03-22 20:06:34,368 INFO  [FilmService] User entered the film selection menu.
+2021-03-22 20:06:35,664 INFO  [FilmService] User canceled changes.
+2021-03-22 20:06:35,664 INFO  [ManagerView] User opened main menu.
+2021-03-22 20:06:40,193 INFO  [ManagerView] User exited the application.
